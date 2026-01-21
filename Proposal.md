@@ -7,8 +7,8 @@ I will be building an animated desk lamp inspired by the Pixar Luxo Jr. opening 
 
 | Item | Purpose | Price |
 | ------ | ------ | ------ |
-| Arduino Uno       | Microcontroller       |        |
-|        |        |        |
+| Arduino Uno       | Microcontroller       | N/A       |
+| Actuators       | Micro Servo Motors (x3) / Joint and head movement       | $15.00       |
 |        |        |        |
 |        |        |        |
 |        |        |        |
