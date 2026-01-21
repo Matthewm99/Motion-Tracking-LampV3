@@ -5,9 +5,9 @@
 I will be building an animated desk lamp inspired by the Pixar Luxo Jr. opening scene.
 
 
-| Item | Purpose | Purpose |
+| Item | Purpose | Price |
 | ------ | ------ | ------ |
-|        |        |        |
+| Arduino Uno       | Microcontroller       |        |
 |        |        |        |
 |        |        |        |
 |        |        |        |
