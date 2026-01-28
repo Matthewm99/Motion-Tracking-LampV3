@@ -1,7 +1,13 @@
 # **Project Proposal - Luxo Jr**
 ## **An Interactive Motion-Tracking Desk Lamp**
 
-I will be building an animated desk lamp inspired by the Pixar Luxo Jr. opening scene. I aim to make the lamp interactive using sensors to detect motion, hopefully giving the impression of curiosity and awareness.
+I will be designing and building an animated desk lamp inspired by the Pixar Luxo Jr. opening scene. I aim to recreate the lamp's expressive motion and sense of creativity using sensors to detect motion and servo-driven joints to adjust position and orientation.
+
+## Functional Description
+When powered on, the lamp will remain in a neutral resting pose. Upon detecting motion or an object within its field of view, the lamp will:
+- Rotate or tilt its head toward the detected object
+- Adjust arm joints to “lean” or follow motion
+- Maintain smooth, natural movements to mimic animated behavior
 
 ## **Course Labs Incorporated**
 1. **CAD and Parametric Design + Intermediate 3D Printing**
@@ -15,6 +21,12 @@ Servo motors will be used to power movement of the joints at the head and base
 5. **Embedded Systems**
 A microcontroller will be used to receive input from the sensors and to control output of the servos
 
+## System Architecture
+- **Input:** Motion sensor or camera detects object position or movement
+- **Processing:** Arduino interprets sensor data and computes joint angles
+- **Output:** Servo motors adjust lamp posture and orientation
+- **Feedback:** Continuous sensor updates allow responsive, dynamic motion
+
 ## **Materials**
 | Item | Purpose | Price |
 | ------ | ------ | ------ |
@@ -23,3 +35,4 @@ A microcontroller will be used to receive input from the sensors and to control 
 | Sensors / PixyMon Camera       | Motion Tracking      | $80.00       |
 | LED + Resistors       | Lamp bulb       | N/A       |
 | 3D Printing Filament       | Body / Structure      | N/A       |
+
