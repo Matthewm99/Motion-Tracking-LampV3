@@ -36,3 +36,9 @@ A microcontroller will be used to receive input from the sensors and to control 
 | LED + Resistors       | Lamp bulb       | N/A       |
 | 3D Printing Filament       | Body / Structure      | N/A       |
 
+## Design
+As suggested in class, I've generated a concept image of a potential design using using generative AI (Gemini 3 Flash) to visualize the integration of the mechanical joints and sensor placement.
+
+![alt text](Images/Gemini_Generated_Image_d8n5v2d8n5v2d8n5.png)
+
+
