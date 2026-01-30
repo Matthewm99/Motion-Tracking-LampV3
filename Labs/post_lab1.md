@@ -10,3 +10,8 @@ The first face is slotted 1 inch in from the top, while second face which is slo
 <p align="center">
   <img src="../Images/post-labonshape.png" alt="Onshape" width="40%">
 </p>
+
+<p align="center">
+  <img src="../Images/inkscape_roof.png" alt="Onshape" width="40%">
+</p>
+
