@@ -29,13 +29,13 @@ Inspiration
 ![alt text](Images/chatgpt_generated_image.png)
 
 ## **CAD and Parametric Design + Intermediate 3D Printing**
-A WIP look at the CAD model assembly that I'm currently working on in onshape. I
+A WIP look at the CAD model assembly that I'm currently working on in onshape. The body will have three points of movement.
 
 ![alt text](Images/initial_cad.png)
 
-3. **Sensors**
-4. **Actuators**
-5. **Embedded Systems**
+**Sensors**
+**Actuators**
+**Embedded Systems**
 
 ## **Materials**
 | Item | Purpose | Price |
