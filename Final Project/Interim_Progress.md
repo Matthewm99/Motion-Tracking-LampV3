@@ -32,6 +32,9 @@ Inspiration
 A WIP look at the CAD model assembly that I'm currently working on in onshape. The body will have three points of movement.
 
 ![alt text](Images/initial_cad.png)
+![alt text](Images/cad2.png)
+![alt text](Images/cad3.png)
+![alt text](Images/cad4.png)
 
 **Sensors**
 **Actuators**
