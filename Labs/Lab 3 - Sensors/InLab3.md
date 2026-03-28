@@ -31,7 +31,7 @@ Colour Sensor Code - Nothing placed in front of the sensor. Accounted for in the
 ## Light Dependent Resistor
 
 - The Light Dependent Resistor is an analog sensor that shows a change in resistance when the level of illumination changes.
-- We connected the sensor to the Arduino Uno using wires, following guide image in the Lab PDF. See below:
+- We connected the sensor to the Arduino Uno using wires, following the guide image in the Lab PDF. See below:
 
 ![alt text](Images/ldrsetup.png)
 
@@ -52,10 +52,18 @@ Above: serial monitor when hand removed from over resistor
 - Potential applications could include automated lighting systems that turn on at night and off during the daytime, as well as brightness control on electronic devices.
 
 ## Temperature and Humidity Sensor
-Guide followed: https://learn.adafruit.com/adafruit-color-sensors/overview
+Guide followed: https://learn.adafruit.com/dht
 
-- The DHT11 is a digital sensor that can measure temperature and humidity.
-- We connected the sensor to the Arduino Uno using wires, following guide linked in the Lab PDF.
-- Adjustments were made to the sample code provided to align with the wiring and pins we arranged. Specifically, Analog Pin 2 was used instead of Digital Pin 4.
-- Real-time measurements were observed through the Serial Monitor as we placed differently coloured objects in front of the sensor.
-- Potential applications could include object identification and colour sorting robots.
+- The temperature and humidity sensor is a digital sensor that can measure temperature and humidity.
+- The sensor measures temperature (in °C) using a thermistor, which changes resistance with temperature.
+- The sensor also measures Humidity (as a percentage) using a moisture-sensitive component that detects water vapor in the air.
+- We connected the sensor to the Arduino Uno using wires, comparing against the guide, although our sensor was different.
+
+![alt text](Images/tempsensor.jpeg)
+Above: Temperature and Humidity Sensor setup
+
+![alt text](Images/tempsensorcode.jpeg)
+Above: Variance of humidity and temperature as we touch and release our finger from the sensor (humidity increases as we bring our fingers closer).
+
+![alt text](Images/tempsensorcode2.jpeg)
+Above: Finger fully away from sensor, humitiy drops signifiantly.
