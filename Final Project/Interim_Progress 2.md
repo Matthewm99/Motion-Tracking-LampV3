@@ -35,6 +35,8 @@ A WIP look at the CAD model assembly that I'm currently working on in onshape. T
 ![alt text](Images/cad2.png)
 ![alt text](Images/cad3.png)
 ![alt text](Images/cad4.png)
+![alt text](Images/image_tracking.JPG)
+![alt text](Images/cad_printed.JPG)
 
 **Sensors**
 **Actuators**
