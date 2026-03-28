@@ -30,7 +30,6 @@ Colour Sensor Code - Nothing placed in front of the sensor. Accounted for in the
 
 
 ## Light Dependent Resistor
-Guide followed: https://learn.adafruit.com/adafruit-color-sensors/overview
 
 - The Light Dependent Resistor shows a change in resistance when the level of illumination changes.
 - We connected the sensor to the Arduino Uno using wires, following guide image in the Lab PDF. See below:
@@ -40,15 +39,15 @@ Guide followed: https://learn.adafruit.com/adafruit-color-sensors/overview
 - Additionally, an LED was connected to the system to visualize the output.
 - We moved our hands over the sensor to vary the illumination levels.
 
-![alt text](Images/ldr.png)
+![alt text](Images/ldr.jpeg)
 
-![alt text](Images/ldrhand.png)
+![alt text](Images/ldrhand.jpeg)
 Above: hand being placed over the resistor
 
-![alt text](Images/ldrhandoveroutput.png)
+![alt text](Images/ldrhandoveroutput.jpeg)
 Above: serial monitor when hand placed over resistor
 
-![alt text](Images/ldrregularoutput.png)
+![alt text](Images/ldrregularoutput.jpeg)
 Above: serial monitor when hand removed from over resistor
 
 - Potential applications could include automated lighting systems that turn on at night and off during the daytime, as well as brightness control on electronic devices.
