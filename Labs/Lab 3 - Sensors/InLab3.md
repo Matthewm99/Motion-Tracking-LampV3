@@ -58,6 +58,7 @@ Guide followed: https://learn.adafruit.com/dht
 - The sensor measures temperature (in °C) using a thermistor, which changes resistance with temperature.
 - The sensor also measures Humidity (as a percentage) using a moisture-sensitive component that detects water vapor in the air.
 - We connected the sensor to the Arduino Uno using wires, comparing against the guide, although our sensor was different.
+- Potential applications include indoor climate monitoring (rooms, greenhouses, etc.) and weather monitoring systems.
 
 ![alt text](Images/tempsensor.jpeg)
 Above: Temperature and Humidity Sensor setup
