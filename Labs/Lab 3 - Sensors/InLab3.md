@@ -10,10 +10,11 @@ For the third in-lab assignment, we were tasked with getting the readings out of
 Guide followed: https://learn.adafruit.com/adafruit-color-sensors/overview
 
 - The TCS34725 RGB Sensor is a digital sensor that can sense RGB and clear light.
+- It measures the intensity of red, green, blue and overall light levels.
 - We connected the sensor to the Arduino Uno using wires, following guide linked in the Lab PDF.
 - Adjustments were made to the sample code provided to align with the wiring and pins we arranged. Specifically, Analog Pin 2 was used instead of Digital Pin 4.
 - Real-time measurements were observed through the Serial Monitor as we placed differently coloured objects in front of the sensor.
-- Potential applications could include object identification and colour sorting robots.
+- Potential applications include object identification and colour sorting robots.
 
 ![alt text](Images/coloursensor.jpeg)
 Colour Sensor Setup - Red wire placed in front of the sensor
@@ -27,11 +28,9 @@ Colour Sensor Setup - Nothing placed in front of the sensor
 ![alt text](Images/coloursensorcode.jpeg)
 Colour Sensor Code - Nothing placed in front of the sensor. Accounted for in the RGB and Color Temp values.
 
-
-
 ## Light Dependent Resistor
 
-- The Light Dependent Resistor shows a change in resistance when the level of illumination changes.
+- The Light Dependent Resistor is an analog sensor that shows a change in resistance when the level of illumination changes.
 - We connected the sensor to the Arduino Uno using wires, following guide image in the Lab PDF. See below:
 
 ![alt text](Images/ldrsetup.png)
@@ -52,3 +51,11 @@ Above: serial monitor when hand removed from over resistor
 
 - Potential applications could include automated lighting systems that turn on at night and off during the daytime, as well as brightness control on electronic devices.
 
+## Temperature and Humidity Sensor
+Guide followed: https://learn.adafruit.com/adafruit-color-sensors/overview
+
+- The DHT11 is a digital sensor that can measure temperature and humidity.
+- We connected the sensor to the Arduino Uno using wires, following guide linked in the Lab PDF.
+- Adjustments were made to the sample code provided to align with the wiring and pins we arranged. Specifically, Analog Pin 2 was used instead of Digital Pin 4.
+- Real-time measurements were observed through the Serial Monitor as we placed differently coloured objects in front of the sensor.
+- Potential applications could include object identification and colour sorting robots.
