@@ -32,12 +32,12 @@ Above: Continuous Hobby Servo serial monitor
 - Using the motorDrive.ino file from LEARN we modified the stepMotor() function so that it reads the
 input from a pushbutton and then rotates the motor 1 complete rotation.
 
-![alt text](Images/stepper.jpeg)
+![alt text](Images/stepper.jpg)
 
-![alt text](Images/stepper_vid.jpeg)
+![alt text](Images/stepper_vid.MOV)
 Above: 28BYJ48 Stepper Motor + ULN2003 Driver, setup, serial monitor and code
 
-![alt text](Images/stepper_vid2.jpeg)
+![alt text](Images/stepper_vid2.MOV)
 Above: Button Press
 
 
