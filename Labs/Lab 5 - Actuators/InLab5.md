@@ -37,7 +37,8 @@ input from a pushbutton and then rotates the motor 1 complete rotation.
 ![alt text](Images/stepper_vid.MOV)
 Above: 28BYJ48 Stepper Motor + ULN2003 Driver, setup, serial monitor and code
 
-![alt text](Images/stepper_vid2.MOV)
+![alt text](Images/stepper_vid2.mov)
+Above: Button Press
 
 
 
