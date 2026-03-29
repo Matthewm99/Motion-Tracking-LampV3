@@ -3,11 +3,11 @@
 
 For my Final Project I had to 3D print multiple parts that would end up having to fit together. I employed a number of different techniques to ensure that the parts fit snuggly and could be easily connected and disconnected as I'd hoped. My goal was to have them held in place together, while allowing some wiggle room.
 - As discussed in Lecture 8, I set offsets of 0.1 cm clearances for a number of my pieces.
-- I modeled additive and subtractive extrudes with these clearances. For example with one of my arms having to contain a servo motor embedded into the arm, I measured the length of the servo at 3.2 cm and set my actual length at 3.21 cm. 
+- I modeled additive and subtractive extrudes with these clearances. For example with one of my arms having to contain a servo motor embedded into the arm, I measured the length of the servo at 3.2 cm and set my actual length at 3.21 cm. Additionally, I also considered the use of chamfering but ultimately decided against it
 
 ![alt text](Images/offset.png)
 
-- For this servo, I layered touchpoints between the servo and the arm to improve the strength of their mating to one another. 
-- I employed the use of an assembly to better visualize how mating would occur.
+- For this servo, I layered touchpoints between the servo and the arm to maximize their mating points for increased strenght and to in turn increase the torque capable of being output by the servo.
+- I employed the use of an assembly to better visualize how mating would occur and to decide how components would move around together as one unified machine.
 
 ![alt text](Images/assembly.png)
