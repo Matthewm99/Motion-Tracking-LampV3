@@ -15,6 +15,8 @@ Above: Position Hobby Servo Setup
 Above: Position Hobby Servo in action (takes angle as input, moves the corresponding angle)
 
 ![alt text](Images/position_hobby_code.jpeg)
+Above: Position Hobby Servo code
+
 
 ### Continuous Rotation Servo
 - This servo receives a speed as a percentage from the serial monitor and then outputs a spin of the motor at the corresponding speed.
@@ -22,6 +24,23 @@ Above: Position Hobby Servo in action (takes angle as input, moves the correspon
 
 ![alt text](Images/continuous_hobby.MOV)
 Above: Continuous Hobby Servo in action (takes percentage as input, moves the corresponding percentage. Positive = Clockwise, Negative = Counterclockwise)
+
+![alt text](Images/continuous_hobby.jpeg)
+Above: Continuous Hobby Servo serial monitor
+
+### 28BYJ48 Stepper Motor + ULN2003 Driver
+- Using the motorDrive.ino file from LEARN we modified the stepMotor() function so that it reads the
+input from a pushbutton and then rotates the motor 1 complete rotation.
+
+![alt text](Images/stepper.jpeg)
+
+![alt text](Images/stepper_vid.jpeg)
+Above: 28BYJ48 Stepper Motor + ULN2003 Driver, setup, serial monitor and code
+
+![alt text](Images/stepper_vid2.jpeg)
+Above: Button Press
+
+
 
 
 
