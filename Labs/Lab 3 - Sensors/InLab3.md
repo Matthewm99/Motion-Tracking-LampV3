@@ -1,4 +1,5 @@
 # Lab 3: Sensors
+This lab was completed with Frank Ding.
 
 ## Description
 For the third in-lab assignment, we were tasked with getting the readings out of 3 different sensors.
