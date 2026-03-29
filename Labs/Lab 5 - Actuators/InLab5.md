@@ -9,7 +9,6 @@ The goal of this lab was to control motors using an Arduino Uno. Functions were 
 - Input an angle from the serial monitor to move the servo to the corresponding position.
 
 ![alt text](Images/position_hobby.jpeg)
-![alt text](Images/position_hobby2.jpeg)
 Above: Position Hobby Servo Setup
 
 ![alt text](Images/position_hobby.MOV)
