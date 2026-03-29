@@ -25,7 +25,7 @@ Above: Position Hobby Servo code
 ![alt text](Images/continuous_hobby.MOV)
 Above: Continuous Hobby Servo in action (takes percentage as input, moves the corresponding percentage. Positive = Clockwise, Negative = Counterclockwise)
 
-![alt text](Images/continuous_hobby.jpeg)
+![alt text](Images/continuous_hobby.jpg)
 Above: Continuous Hobby Servo serial monitor
 
 ### 28BYJ48 Stepper Motor + ULN2003 Driver
