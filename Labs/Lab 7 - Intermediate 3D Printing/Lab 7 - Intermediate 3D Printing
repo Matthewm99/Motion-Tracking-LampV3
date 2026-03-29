@@ -1,10 +1,6 @@
 # Lab 7: Intermediate 3D Printing
 ## Description
 
-Use two of the techniques discussed to develop one or more parts
-for your final project
-• Document your part, the techniques you applied, the desired
-
 For my Final Project I had to 3D print multiple parts that would end up having to fit together. I employed a number of different techniques to ensure that the parts fit snuggly and could be easily connected and disconnected as I'd hoped. My goal was to have them held in place together, while allowing some wiggle room.
 - As discussed in Lecture 8, I set offsets of 0.1 cm clearances for a number of my pieces.
 - I modeled additive and subtractive extrudes with these clearances. For example with one of my arms having to contain a servo motor embedded into the arm, I measured the length of the servo at 3.2 cm and set my actual length at 3.21 cm. 
