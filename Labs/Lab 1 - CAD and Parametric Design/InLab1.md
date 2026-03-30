@@ -15,7 +15,7 @@ The box consists of 2 unique parts. We cut two top / bottom parts and 4 side pan
 
 ## Completed 
 
-![alt text](Images/box.png)
+![alt text](Images/side.png)
 
 ## Top & Bottom
 Each of these pieces had four slots for the other design's notches to fit into.
