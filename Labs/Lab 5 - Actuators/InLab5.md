@@ -8,13 +8,13 @@ The goal of this lab was to control motors using an Arduino Uno. Functions were 
 ### Position Hobby Servo
 - Input an angle from the serial monitor to move the servo to the corresponding position.
 
-![alt text](Images/position_hobby.jpeg)
+![alt text](/Images/position_hobby.jpeg)
 Above: Position Hobby Servo Setup
 
-![alt text](Images/position_hobby.MOV)
+![alt text](/Images/position_hobby.MOV)
 Above: Position Hobby Servo in action (takes angle as input, moves the corresponding angle)
 
-![alt text](Images/position_hobby_code.jpeg)
+![alt text](/Images/position_hobby_code.jpeg)
 Above: Position Hobby Servo code
 
 
@@ -22,22 +22,22 @@ Above: Position Hobby Servo code
 - This servo receives a speed as a percentage from the serial monitor and then outputs a spin of the motor at the corresponding speed.
 - Eg. 5% should equate to a 5 percent of the motors max speed in the clockwise direction, whereas -5% should equate to a 5 percent counterclockwise rotation.
 
-![alt text](Images/continuous_hobby.MOV)
+![alt text](/Images/continuous_hobby.MOV)
 Above: Continuous Hobby Servo in action (takes percentage as input, moves the corresponding percentage. Positive = Clockwise, Negative = Counterclockwise)
 
-![alt text](Images/continuous_hobby.jpg)
+![alt text](/Images/continuous_hobby.jpg)
 Above: Continuous Hobby Servo serial monitor
 
 ### 28BYJ48 Stepper Motor + ULN2003 Driver
 - Using the motorDrive.ino file from LEARN we modified the stepMotor() function so that it reads the
 input from a pushbutton and then rotates the motor 1 complete rotation.
 
-![alt text](Images/stepper.jpg)
+![alt text](/Images/stepper.jpg)
 
-![alt text](Images/stepper_vid.MOV)
+![alt text](/Images/stepper_vid.MOV)
 Above: 28BYJ48 Stepper Motor + ULN2003 Driver, setup, serial monitor and code
 
-![alt text](Images/stepper_vid2.mov)
+![alt text](/Images/stepper_vid2.mov)
 Above: Button Press
 
 

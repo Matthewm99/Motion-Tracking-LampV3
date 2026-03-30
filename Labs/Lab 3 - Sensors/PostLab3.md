@@ -8,7 +8,7 @@ Build a system that measures something interesting and reports the data somehow.
 - It measures the location of the object within the camera frame in pixel x,y coordinates.
 - The physical quantities measured are the object position in x,y coordinates and the motion over time or the change in position across frames.
 
-![alt text](Images/image_tracking.JPG)
+![alt text](/Images/image_tracking.JPG)
 
-![alt text](Images/image_tracking_vid.MOV)
+![alt text](/Images/image_tracking_vid.MOV)
 
