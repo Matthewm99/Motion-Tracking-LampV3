@@ -20,9 +20,9 @@ Take photos of your completed box and submit provide a brief writeup (5-10 bulle
 ## What you are likely to use in your final project
 - I'm likely to use the drill press as I'll probably need holes in some of my pieces to thread wires through and other connections.
 
-![alt text](Images/box1.JPG)
-![alt text](Images/box2.JPG)
-![alt text](Images/box3.JPG)
-![alt text](Images/box4.JPG)
+![alt text](/Images/box1.JPG)
+![alt text](/Images/box2.JPG)
+![alt text](/Images/box3.JPG)
+![alt text](/Images/box4.JPG)
 
 
