@@ -12,6 +12,7 @@ The system uses an ESP32-CAM to stream live video over WiFi, while a Python scri
 The system uses an ESP32-CAM to stream live video over WiFi, while a Python script processes the video feed using OpenCV to detect the position of the object. The detected position is then sent wirelessly via UDP to the ESP32, which controls a servo motor to physically move the lamp head.
 
 ![alt text](/Images/Lamp.gif)
+![alt text](/Images/Lamp.gif)
 ![alt text](/Images/Final_Project_Base.JPG)
 ![alt text](/Images/Final_Project_Head.JPG)
 **Figure 1:** Here's a video of my final project

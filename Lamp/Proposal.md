@@ -1,4 +1,3 @@
-# **Project Proposal - Luxo Jr**
 ## **An Interactive Motion-Tracking Desk Lamp**
 
 I will be designing and building an animated desk lamp inspired by the Pixar Luxo Jr. opening scene. I aim to recreate the lamp's expressive motion and sense of creativity using sensors to detect motion and servo-driven joints to adjust position and orientation.
@@ -9,7 +8,6 @@ When powered on, the lamp will remain in a neutral resting pose. Upon detecting 
 - Adjust arm joints to “lean” or follow motion
 - Maintain smooth, natural movements to mimic animated behavior
 
-## **Course Labs Incorporated**
 1. **CAD and Parametric Design + Intermediate 3D Printing**
 The main body, joints and arms of the lamp will be created using CAD for easy design and dimensioning
 2. **Reverse Engineering**
