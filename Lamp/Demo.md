@@ -41,5 +41,3 @@ The importance of system-level thinking when working with embedded systems. It h
 
 ### Now What 
 If I were to extend this project, I would add horizontal tracking using a second servo to create a full pan-tilt system. I could also improve the object detection by using more advanced techniques (e.g., machine learning instead of simple color thresholding) to make tracking more robust under different lighting conditions. Another improvement would be designing a proper power system using a dedicated external supply instead of relying on the bench, which would make the system more reliable and portable. Finally, I could integrate everything into a standalone system without requiring a laptop by optimizing or upgrading the embedded processing capabilities.
-
-This report was written with the assistance of ChatGPT (OpenAI)
